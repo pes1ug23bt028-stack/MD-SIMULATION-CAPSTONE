@@ -1,0 +1,1 @@
+{"systype":null,"dimensions":["145","145","145","90.0","90.0","90.0"],"input":["gromacs"],"forcefield":{"type":"c36m","files":["default"],"custom":["unk\/unk.rtf","unk\/unk.prm"]},"hmr":false}
